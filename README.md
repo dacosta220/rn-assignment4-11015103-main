@@ -13,8 +13,7 @@ A functional component that accepts props for the card details.
 This component displays at least 8 different job cards in each section.
 
 # Screenshots of Project
-(Screenshots/Fullpage.jpg)
-
+![full page](Screenshots/Fullpage.jpg).jpeg
 
 
 
